@@ -1,10 +1,12 @@
 # Cybersecurity-DAY-6
 Cybersecurity Training Report — Day 11
+
 Topic: Linux OS
  
 FHS (File System Hierarchy Standard) — what goes where
 
 Linux organizes files by purpose. Key top-level directories to remember:
+
 /bin, /boot, /etc, /home, /lib, /media, /mnt, /opt, /root, /run, /srv, /tmp, /usr, /var, /sbin.
 
 Analogy: like rooms in a house — each directory has a specific role.
